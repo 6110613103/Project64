@@ -14,3 +14,5 @@
 ### เพิ่มไฟล์ pj_report3.pdf
 #### pj_report3.pdf -> เพิ่มเนื้อหาเรื่อง DHT, Peer Id และ Multi Adderss 
 ####                   เพิ่มเนื้อหาและคำอธิบายรูปภาพของเว็บการสอน ในส่วนหัว ในส่วนของบทที่ 3 หัวข้อ คำสั่งใน RISC-V เฉพาะส่วนที่ทำเสร็จ (รูปที่14 - รูปที่16)
+
+#### ตารางดำเนินงาน https://drive.google.com/file/d/1rKVWCl0JJRhHhVIuYTVWLJvlVMBg0JhH/view?usp=sharing
